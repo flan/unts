@@ -28,10 +28,8 @@ A [post-mortem write-up](http://unts.googlecode.com/files/Conference.pdf) is als
       * Despite this bug, there's a clear demonstration of emergent expansion, path-finding, defense (as warriors seek out threats based on lingering pheromones), avoidance, and a whole **ton** of math, demonstrating what can be done with a very simple configuration file and showing how small changes to the parameters of two colonies can produce dramatically different results, even with identical environments.
     * It's really pretty to watch.
 
-## Getting access ##
-The source code is all available via Subversion.
-
-Additionally, the [class documentation](http://static.uguu.ca/projects/puukusoft/unts/api/) is also available.
+## Development materials ##
+ * [Class documentation](http://static.uguu.ca/projects/puukusoft/unts/api/)
 
 ### Getting help ###
 If you're stuck or curious about how something works, don't hesitate to ask. You should get a response fairly quickly.
